@@ -41,7 +41,7 @@ Submit an [issue](https://github.com/codejamninja/oooc/issues/new)
 
 ## Screenshots
 
-[Contribute](https://github.com/codejamninja/oooc/blob/master/CONTRIBUTING.md) a screenshot
+![0011](https://user-images.githubusercontent.com/6234038/40304410-f498f10c-5cf6-11e8-96fc-33aa549c082e.jpg)
 
 
 ## Contributing
