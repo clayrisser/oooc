@@ -1,4 +1,4 @@
-# oooc
+# oooc (order out of chaos)
 
 [![GitHub stars](https://img.shields.io/github/stars/codejamninja/oooc.svg?style=social&label=Stars)](https://github.com/codejamninja/oooc)
 

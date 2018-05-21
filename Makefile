@@ -1,5 +1,4 @@
 CWD := $(shell pwd)
-TMPDIR := $(shell mktemp -d)
 
 .PHONY: all
 all:
