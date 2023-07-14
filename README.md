@@ -4,6 +4,8 @@
 
 > Pretty print structured data found in stdout
 
+![](assets/oooc.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 
